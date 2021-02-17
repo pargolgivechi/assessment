@@ -1,0 +1,21 @@
+.row{
+  color: lightblue;
+  border: 1px solid red;
+  margin: 2px;
+}
+
+.column{
+  color: lightblue;
+  display: inline-block;
+  width: 48%;
+  border: 1px solid red;
+  margin: 2px;
+}
+.image {
+  width: 100px; 
+  height: 100px;
+  background-color: lightblue;
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+}
